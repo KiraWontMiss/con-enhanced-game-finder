@@ -1,3 +1,6 @@
+<img width="319" height="591" alt="image" src="https://github.com/user-attachments/assets/92a98d17-5b58-479b-b9ce-7070b8817ffd" />
+<img width="293" height="233" alt="image" src="https://github.com/user-attachments/assets/e2b36a65-bc77-4ef6-916a-37e1d7db60ad" />
+
 # CoN Enhanced Game Finder v1.0.0
 
 A Chrome extension for **Conflict of Nations: World War 3** that scans New Matches so you don't have to sit there refreshing the page all day. It auto-joins games, auto-picks your country, and can drag your friends into the same lobby with you.
@@ -59,8 +62,3 @@ Unofficial, fan-made tool. Not affiliated with or endorsed by the actual devs of
 Made by Kira ([@nowaykira](https://github.com/KiraWontMiss))
 Questions, bugs, or updates:
 Discord: https://discord.gg/wSbCcCvsW2
-
-
-<img width="319" height="591" alt="image" src="https://github.com/user-attachments/assets/92a98d17-5b58-479b-b9ce-7070b8817ffd" />
-<img width="320" height="370" alt="image" src="https://github.com/user-attachments/assets/2cfac511-7a9b-48e2-b0d8-3aabfdd4cb53" />
-
