@@ -1,5 +1,6 @@
-<img width="319" height="591" alt="image" src="https://github.com/user-attachments/assets/92a98d17-5b58-479b-b9ce-7070b8817ffd" />
-<img width="293" height="233" alt="image" src="https://github.com/user-attachments/assets/e2b36a65-bc77-4ef6-916a-37e1d7db60ad" />
+<img width="320" height="318" alt="image" src="https://github.com/user-attachments/assets/aaff56bb-1847-4c79-aaa0-782db06af297" />
+<img width="294" height="322" alt="image" src="https://github.com/user-attachments/assets/7a7ff71f-ba65-48e5-8ed9-89970b3dd805" />
+<img width="291" height="233" alt="image" src="https://github.com/user-attachments/assets/21b0a2b5-20c9-4d66-bb70-db350de09b77" />
 
 # CoN Enhanced Game Finder v1.0.0
 
