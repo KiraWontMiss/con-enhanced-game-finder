@@ -59,3 +59,8 @@ Unofficial, fan-made tool. Not affiliated with or endorsed by the actual devs of
 Made by Kira ([@nowaykira](https://github.com/KiraWontMiss))
 Questions, bugs, or updates:
 Discord: https://discord.gg/wSbCcCvsW2
+
+
+<img width="319" height="591" alt="image" src="https://github.com/user-attachments/assets/92a98d17-5b58-479b-b9ce-7070b8817ffd" />
+<img width="320" height="370" alt="image" src="https://github.com/user-attachments/assets/2cfac511-7a9b-48e2-b0d8-3aabfdd4cb53" />
+
