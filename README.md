@@ -1,6 +1,10 @@
-<img width="320" height="318" alt="image" src="https://github.com/user-attachments/assets/aaff56bb-1847-4c79-aaa0-782db06af297" />
-<img width="294" height="322" alt="image" src="https://github.com/user-attachments/assets/7a7ff71f-ba65-48e5-8ed9-89970b3dd805" />
-<img width="291" height="233" alt="image" src="https://github.com/user-attachments/assets/21b0a2b5-20c9-4d66-bb70-db350de09b77" />
+## Screenshots
+
+<p float="left">
+  <img width="280" alt="CoN Enhanced Game Finder popup" src="https://github.com/user-attachments/assets/aaff56bb-1847-4c79-aaa0-782db06af297" />
+  <img width="280" alt="CoN Enhanced Game Finder settings" src="https://github.com/user-attachments/assets/7a7ff71f-ba65-48e5-8ed9-89970b3dd805" />
+  <img width="280" alt="CoN Enhanced Game Finder party join" src="https://github.com/user-attachments/assets/21b0a2b5-20c9-4d66-bb70-db350de09b77" />
+</p>
 
 # CoN Enhanced Game Finder v1.0.0
 
