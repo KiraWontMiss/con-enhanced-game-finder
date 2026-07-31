@@ -18,7 +18,7 @@ If it's not working, check [Troubleshooting](#troubleshooting) or [Party Join](#
 
 Your browser won't load a `.zip` directly. Extract it first, it's not optional.
 
-1. Download the latest `.zip` from [Releases](../../releases)
+1. Download the latest `.zip` from [Releases](https://github.com/KiraWontMiss/con-enhanced-game-finder/releases/latest)
 2. Unzip it into its own folder
 3. Open `chrome://extensions` (or your browser's equivalent)
 4. Enable **Developer mode**
